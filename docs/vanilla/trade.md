@@ -5,16 +5,16 @@
 
 输入`/worthlist`查看当前市场，你可以出售这些物品。可出售的物品以及收购价会有变动，一切以游戏内容为准。如图所示，当前，信标的价值是1126.66元。
 
-![价值列表](../image/trade/worthlist.png "价值列表")
+![价值列表](../public/image/trade/worthlist.png "价值列表")
 
 最简单的出售物品的方法是，输入`/sell gui`。
 
-![出售物品界面](../image/trade/sell.png "出售物品界面")
+![出售物品界面](../public/image/trade/sell.png "出售物品界面")
 
 然后我把物品拖入菜单内。
 
-![已出售物品界面](../image/trade/selling.png "已出售物品界面")
+![已出售物品界面](../public/image/trade/selling.png "已出售物品界面")
 
 我想出售一组信标，那么理应获得*72106.24*元，按`E`或者`Esc`关闭这个菜单，你将会获得对应的金钱。
 
-![出售结果](../image/trade/result.png "出售结果")
+![出售结果](../public/image/trade/result.png "出售结果")

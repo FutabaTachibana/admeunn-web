@@ -38,7 +38,7 @@ features:
   import { VPTeamMembers } from 'vitepress/theme'
   const members = [
     {
-      avatar: './image/avatar/Futaba_Tachibana.jpg',
+      avatar: '/image/avatar/Futaba_Tachibana.jpg',
       name: 'Futaba_Tachibana',
       title: '技术/网站搭建',
       links: [
@@ -47,7 +47,7 @@ features:
       ]
     },
     {
-      avatar: './image/avatar/Dr_SFLSJ.jpg',
+      avatar: '/image/avatar/Dr_SFLSJ.jpg',
       name: 'Dr_SFLSJ',
       title: '宣传/文案',
       links: [
@@ -55,7 +55,7 @@ features:
       ]
     },
     {
-      avatar: './image/avatar/wyykoko.jpg',
+      avatar: '/image/avatar/wyykoko.jpg',
       name: 'wyykoko',
       title: '美工/建筑',
       links: [
@@ -63,7 +63,7 @@ features:
       ]
     },
     {
-      avatar: './image/avatar/Dark_Young.jpg',
+      avatar: '/image/avatar/Dark_Young.jpg',
       name: 'Dark_Young',
       title: '部分资金支持',
       links: [
@@ -71,7 +71,7 @@ features:
       ]
     },
     {
-      avatar: './image/avatar/Ringona.jpg',
+      avatar: '/image/avatar/Ringona.jpg',
       name: 'Ringona',
       title: '日常管理',
       links: [
@@ -79,7 +79,7 @@ features:
       ]
     },
     {
-      avatar: './image/avatar/CloudLeaf_.jpg',
+      avatar: '/image/avatar/CloudLeaf_.jpg',
       name: 'CloudLeaf_',
       title: '日常管理',
       links: [

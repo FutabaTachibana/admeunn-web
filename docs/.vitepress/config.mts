@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh-CN',
+  head: [['link', { rel: 'icon', href: '/image/logo.jpg'}]],
   title: 'Admeunn服务器',
   description: 'Admeunn服务器官方网站',
   themeConfig: {
